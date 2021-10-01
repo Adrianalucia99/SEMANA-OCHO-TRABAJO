@@ -1,0 +1,101 @@
+:root {
+    --text-bold: bold;
+    --padding: 5px;
+  }
+  
+  .title {
+    border: 1px solid black;
+    color: cadetblue;
+    padding: var(--padding);
+    width: 500px;
+    height: 50px;
+    
+  }
+  .subtitle {
+    border: 1px solid black; 
+    color: blue;
+    padding: var(--padding);
+    width: 500px;
+    height: 50px;
+    
+  
+  }
+  strong{
+    color: red;
+  }
+  u{
+    color: red;
+  }
+  .sub{
+    color: blue;
+    
+  }
+  .morado{
+  color: blueviolet;
+  }
+  .rosa{
+    color: rgba(155, 89, 101, 0.479);
+  }
+  .verde{
+    color: rgb(4, 80, 4);
+  }
+   .text {
+    border: 1px solid black;
+    padding: var(--padding);
+    width: 500px;
+    height: 90px;
+    
+  }
+   
+  .description {
+    color: yellowgreen;
+    padding: var(--padding);
+    border: 1px solid black;
+    width: 500px;
+    height: 90px;
+    
+    
+  }
+  
+  .table,
+  td {
+    border: 1px solid black;
+    width: 500px;
+    height: 40px;
+    
+    
+    
+  }
+  
+  .table {
+    text-align: center;
+    border-collapse: collapse;
+  }
+  
+  .phrases {
+    border: 1px solid black;
+    width: 500px;
+    height: 50px;
+    
+  }
+  
+  .table-blue {
+    color: blue;
+    font-weight: var(--text-bold);
+  }
+  
+  .table-red {
+    color: red;
+    font-weight: var(--text-bold);
+  }
+  
+  .table-green {
+    color: green;
+    font-weight: var(--text-bold);
+  }
+  
+  .table-yellow {
+    color: yellow;
+    font-weight: var(--text-bold);
+  }
+  

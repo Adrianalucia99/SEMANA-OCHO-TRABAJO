@@ -1,0 +1,72 @@
+:root {
+    --text-bold: bold;
+    --padding: 5px;
+  }
+  
+  .title {
+    color: cadetblue;
+    padding: var(--padding);
+  }
+  .subtitle {
+    color: blue;
+    padding: var(--padding);
+  }
+  strong{
+    color: red;
+  }
+  u{
+    color: red;
+  }
+  .sub{
+    color: blue;
+  }
+  .morado{
+  color: blueviolet;
+  }
+  .rosa{
+    color: rgba(155, 89, 101, 0.479);
+  }
+  .verde{
+    color: rgb(4, 80, 4);
+  }
+  
+  .description {
+    color: yellowgreen;
+    padding: var(--padding);
+    
+  }
+  
+  .table,
+  td {
+    border: 1px solid black;
+  }
+  
+  .table {
+    text-align: center;
+    border-collapse: collapse;
+  }
+  
+  .phrases {
+    border: 1px solid black;
+  }
+  
+  .table-blue {
+    color: blue;
+    font-weight: var(--text-bold);
+  }
+  
+  .table-red {
+    color: red;
+    font-weight: var(--text-bold);
+  }
+  
+  .table-green {
+    color: green;
+    font-weight: var(--text-bold);
+  }
+  
+  .table-yellow {
+    color: yellow;
+    font-weight: var(--text-bold);
+  }
+  
